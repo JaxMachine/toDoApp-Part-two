@@ -1,0 +1,12 @@
+li {
+  font-size: 50px;
+}
+
+.task-done {
+  text-decoration-line: line-through;
+}
+
+button {
+  margin-left: 15px;
+  vertical-align: middle;
+}
